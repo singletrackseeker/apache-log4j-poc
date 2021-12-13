@@ -13,3 +13,5 @@ Apache Log4j 远程代码执行
 
 （2）修改配置
 在应用classpath下添加log4j2.component.properties配置文件，log4j2.formatMsgNoLookups=true
+
+CVE-2021-44228
